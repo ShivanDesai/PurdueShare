@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D1B2C218312589565FF4F0637BBA16C5"
+               BlueprintIdentifier = "D2771FF602CE92017FBCE5A7E212B13E"
                BuildableName = "Pods_PurdueShare.framework"
                BlueprintName = "Pods-PurdueShare"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -26,7 +26,6 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
@@ -37,7 +36,6 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -47,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D1B2C218312589565FF4F0637BBA16C5"
+            BlueprintIdentifier = "D2771FF602CE92017FBCE5A7E212B13E"
             BuildableName = "Pods_PurdueShare.framework"
             BlueprintName = "Pods-PurdueShare"
             ReferencedContainer = "container:Pods.xcodeproj">

@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import FBSDKCoreKit
 import FBSDKLoginKit
 import Foundation
 import FacebookCore
@@ -22,13 +23,13 @@ class LoginViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
     }
-   //     let loginButton = FBSDKLoginButton()
-   //     loginButton.center = view.center
-   //     view.addSubview(loginButton)
-   //     loginButton.frame = CGRect(x: 16, y: 50, width: view.frame.width - 32, height: 50)
-   //     loginButton.delegate = self
-   // }
-    
+//        let loginButton = FBSDKLoginButton()
+//        loginButton.center = view.center
+//        view.addSubview(loginButton)
+//        loginButton.frame = CGRect(x: 16, y: 50, width: view.frame.width - 32, height: 50)
+//        loginButton.delegate = self as! FBSDKLoginButtonDelegate
+//    }
+
     
     @IBAction func fbLoginClicked(_ sender: Any) {
         AuthService.instance.facebookAuth(forVC: self)

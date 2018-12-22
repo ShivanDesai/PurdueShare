@@ -6,6 +6,7 @@ target 'PurdueShare' do
   use_frameworks!
 
   # Pods for PurdueShare
+	pod 'FBSDKCoreKit', :git => 'https://github.com/facebook/facebook-objc-sdk.git', :branch => 'master'
 	pod 'FacebookCore'
 	pod 'FacebookLogin'
 	pod 'FacebookShare'
